@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1460989676 source:d:\esi\algo\programation en c\tp_llc\tp-llc_souab_khiari\grafique.c
+	<windows.h>
+	<string.h>
+
+1460143878 source:d:\esi\algo\programation en c\tp_llc\tp-llc_souab_khiari\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"type.h"
+	"LLC.h"
+	"matrice.h"
+	"graphic.h"
+
+1458996799 d:\esi\algo\programation en c\tp_llc\tp-llc_souab_khiari\type.h
+
+1460577252 d:\esi\algo\programation en c\tp_llc\tp-llc_souab_khiari\llc.h
+	"type.h"
+	<math.h>
+
+1458998943 d:\esi\algo\programation en c\tp_llc\tp-llc_souab_khiari\matrice.h
+	"type.h"
+
+1459019713 d:\esi\algo\programation en c\tp_llc\tp-llc_souab_khiari\graphic.h
+
+1460126824 source:c:\users\nadjib\desktop\tp-llc_souab_khiari\grafique.c
+	<windows.h>
+	<string.h>
+
+1460137262 source:c:\users\nadjib\desktop\tp-llc_souab_khiari\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"type.h"
+	"LLC.h"
+	"matrice.h"
+	"graphic.h"
+
+1458996799 c:\users\nadjib\desktop\tp-llc_souab_khiari\type.h
+
+1460143395 c:\users\nadjib\desktop\tp-llc_souab_khiari\llc.h
+	"type.h"
+	<math.h>
+
+1458998943 c:\users\nadjib\desktop\tp-llc_souab_khiari\matrice.h
+	"type.h"
+
+1459019713 c:\users\nadjib\desktop\tp-llc_souab_khiari\graphic.h
+
+1460143878 source:d:\esi\algo\programation en c\tp_llc\tp-llc_souab_khiari\code source\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"type.h"
+	"LLC.h"
+	"matrice.h"
+	"graphic.h"
+
+1458996799 d:\esi\algo\programation en c\tp_llc\tp-llc_souab_khiari\code source\type.h
+
+1460143395 d:\esi\algo\programation en c\tp_llc\tp-llc_souab_khiari\code source\llc.h
+	"type.h"
+	<math.h>
+
+1458998943 d:\esi\algo\programation en c\tp_llc\tp-llc_souab_khiari\code source\matrice.h
+	"type.h"
+
+1459019713 d:\esi\algo\programation en c\tp_llc\tp-llc_souab_khiari\code source\graphic.h
+
+1460144175 source:d:\esi\algo\programation en c\tp_llc\tp-llc_souab_khiari\code source\grafique.c
+	<windows.h>
+	<string.h>
+
